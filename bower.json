@@ -1,5 +1,5 @@
 {
-  "name": "Markdown",
+  "name": "Markdown JS",
   "version" : "0.0.0",
   "main": "lib/markdown.js"
 }
